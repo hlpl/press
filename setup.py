@@ -39,7 +39,7 @@ for i in range(4,len(list(config['hlpl_press'].keys()))):
     
 
 setup (name='hlpl_press', version=VERSION,
-      description='Text Transcriber',
+      description='hlpl_press is a web designer (or site duilder) using python as core engine.',
       long_description_content_type='text/markdown',  
       long_description = LONG_DESCRIPTION,       
       author=AUTHOR,
